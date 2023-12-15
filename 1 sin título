@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><title>Navidad</title>
+<img src="logo.png"width="10%">
+</head>
+<body style="background-color: rgb(255, 255, 128);">
+<h1><u>Navidad</u></h1>
+<div align="center">
+<img src="navidad.jpeg">
+</div>
+<p align="center">Festividad religiosa que se celebra el d&iacute;a<strong> 25 de diciembre</strong>, en que los cristianos conmemoran el nacimiento de Jesus</p>
+<div align="center">
+<img src="eso.jpeg">
+</div>
+<p align="center">El turrón (en francés: touron; en italiano: torrone; en portugués: torrão, en catalán: torró) es una masa dulce obtenida por la cocción de miel (o azúcares) a la que se incorporan almendras peladas y tostadas. A dicha masa se le puede añadir, o no, clara de huevo para que emulsione.</p>
+<div align="center">
+<img src="luzes.jpeg">
+</div>
+<p align="center">En Navidad, la luz forma parte de la magia, tanto como los adornos o los regalos. Por eso las guirnaldas no pueden faltar en tu árbol. Las hay de tono blanco cálido, frío o multicolor; de mayor o menor número de leds según la luminosidad deseada; y de diferente longitud para que cada recoveco de tu árbol brille. </p>
+<img src="cena.jpeg"width="30%">
+</body>
+</html>
+
