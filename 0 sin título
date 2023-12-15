@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head><title>malaga</title>
+<img src="logo.png"width="10%">
+</head>
+<body style="background-color: rgb(255, 255, 128);">
+<h1><u>malaga</u></h1>
+<div align="center">
+<img src="papa.jpeg">
+</div>
+<div>
+<a align="center">Navidad</a>
+</div>
+<div align="center">
+<img src="semana.jpeg">
+</div>
+<div>
+<a align="center">semana santa</a>
+</div>
+<div align="center">
+<img src="vista.jpeg">
+</div>
+<div>
+<a align="center">sities importantes</a>
+</div>
+</body>
+</html>
